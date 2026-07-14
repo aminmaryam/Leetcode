@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/aminmaryam/Leetcode/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/aminmaryam/Leetcode/tree/master/0039-combination-sum) |
+| [2596-check-knight-tour-configuration](https://github.com/aminmaryam/Leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,4 +24,20 @@
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/aminmaryam/Leetcode/tree/master/0131-palindrome-partitioning) |
+## Depth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/aminmaryam/Leetcode/tree/master/2596-check-knight-tour-configuration) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/aminmaryam/Leetcode/tree/master/2596-check-knight-tour-configuration) |
+## Matrix
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/aminmaryam/Leetcode/tree/master/2596-check-knight-tour-configuration) |
+## Simulation
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/aminmaryam/Leetcode/tree/master/2596-check-knight-tour-configuration) |
 <!---LeetCode Topics End-->
