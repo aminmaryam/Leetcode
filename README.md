@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aminmaryam/Leetcode/tree/master/0001-two-sum) |
+| [0138-copy-list-with-random-pointer](https://github.com/aminmaryam/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/aminmaryam/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aminmaryam/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 ## Backtracking
@@ -46,6 +47,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/aminmaryam/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0138-copy-list-with-random-pointer](https://github.com/aminmaryam/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/aminmaryam/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aminmaryam/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/aminmaryam/Leetcode/tree/master/0206-reverse-linked-list) |
