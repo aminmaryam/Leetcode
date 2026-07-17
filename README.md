@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/aminmaryam/Leetcode/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/aminmaryam/Leetcode/tree/master/0039-combination-sum) |
+| [0496-next-greater-element-i](https://github.com/aminmaryam/Leetcode/tree/master/0496-next-greater-element-i) |
 | [2596-check-knight-tour-configuration](https://github.com/aminmaryam/Leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Hash Table
 |  |
@@ -14,6 +15,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/aminmaryam/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/aminmaryam/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aminmaryam/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0496-next-greater-element-i](https://github.com/aminmaryam/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -78,4 +80,9 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aminmaryam/Leetcode/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/aminmaryam/Leetcode/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/aminmaryam/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
