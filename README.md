@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/aminmaryam/Leetcode/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/aminmaryam/Leetcode/tree/master/0039-combination-sum) |
+| [0084-largest-rectangle-in-histogram](https://github.com/aminmaryam/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/aminmaryam/Leetcode/tree/master/0496-next-greater-element-i) |
 | [2596-check-knight-tour-configuration](https://github.com/aminmaryam/Leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Hash Table
@@ -80,9 +81,11 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aminmaryam/Leetcode/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/aminmaryam/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/aminmaryam/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/aminmaryam/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/aminmaryam/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
