@@ -19,25 +19,22 @@ for a valid solution total gas should be >= totalCost, otherwise return -1
         int totalGas = 0, totalCost = 0;
         int st = 0;
         int currGas = 0;
-        
-        for(int val : gas){
-            totalGas += val;
-        }
-        for(int val : cost){
-            totalCost += val;
-        }
-
-        if(totalGas < totalCost){
-            return -1;
-        }
 
         for(int i=0; i<gas.size(); i++){
+            totalGas += gas[i];
+            totalCost += cost[i];
+
             currGas += gas[i] - cost[i];
 
             if(currGas < 0){
                 st = i+1;
                 currGas = 0;
             }
+        }
+
+        
+        if(totalGas < totalCost){
+            return -1;
         }
 
         return st;
