@@ -8,6 +8,7 @@
 | [0039-combination-sum](https://github.com/aminmaryam/Leetcode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/aminmaryam/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aminmaryam/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0134-gas-station](https://github.com/aminmaryam/Leetcode/tree/master/0134-gas-station) |
 | [0496-next-greater-element-i](https://github.com/aminmaryam/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/aminmaryam/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [2596-check-knight-tour-configuration](https://github.com/aminmaryam/Leetcode/tree/master/2596-check-knight-tour-configuration) |
@@ -115,4 +116,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/aminmaryam/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/aminmaryam/Leetcode/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
