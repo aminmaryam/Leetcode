@@ -8,22 +8,20 @@
  */
 class Solution {
 public:
-/*
-apply the slow and fast pointer approach
-let fast = fast->next->next and slow = slow->next then at any point in the loop if fast == slow then there is a cycle otherwise no cycle
-*/
     bool hasCycle(ListNode *head) {
-        ListNode* slow = head;
         ListNode* fast = head;
+        ListNode* slow = head;
+        
 
         while(fast != NULL && fast->next != NULL){
             slow = slow->next;
             fast = fast->next->next;
+            
 
             if(slow == fast){
                 return true;
             }
         }
-        return false;   
+        return false;
     }
 };
