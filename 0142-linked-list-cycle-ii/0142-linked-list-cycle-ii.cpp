@@ -8,39 +8,29 @@
  */
 class Solution {
 public:
-
-/*
-1) run a while loop till slow and fast are equal 
-2) after that initialize slow to head
-3) then we update slow and fast by one untill they both become equal again
-4) the point where slow and fast meet is the starting point of the cycle
-
-*/
     ListNode *detectCycle(ListNode *head) {
-        ListNode* slow = head;
         ListNode* fast = head;
-        bool isCycle = false;
-        
-        while(fast != NULL && fast->next != NULL){
-            slow = slow->next;
-            fast = fast->next->next;
-            
-            if(slow == fast){
-                isCycle = true;
-                break;
-            }
-        }
-
-        if(!isCycle){
-            return NULL;
-        }
-
-        slow = head;
-        while(slow != fast){
-            slow = slow->next;
-            fast=fast->next;
-        }
-
-        return slow;
+		ListNode* slow = head;
+		bool isCycle = false;
+			
+		while(fast != NULL && fast->next != NULL){
+			fast = fast->next->next;
+			slow = slow->next;
+			
+		if(fast == slow){
+			isCycle = true;
+			break;
+		}	
+	}
+		if(!isCycle){return NULL;}
+		
+		slow = head;
+		
+		while(fast != slow){
+			fast = fast->next;
+			slow = slow->next;
+		}
+		
+		return slow;
     }
 };
