@@ -12,6 +12,7 @@
 | [0134-gas-station](https://github.com/aminmaryam/Leetcode/tree/master/0134-gas-station) |
 | [0496-next-greater-element-i](https://github.com/aminmaryam/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/aminmaryam/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/aminmaryam/Leetcode/tree/master/0739-daily-temperatures) |
 | [2596-check-knight-tour-configuration](https://github.com/aminmaryam/Leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Hash Table
 |  |
@@ -106,6 +107,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/aminmaryam/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/aminmaryam/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/aminmaryam/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/aminmaryam/Leetcode/tree/master/0739-daily-temperatures) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/aminmaryam/Leetcode/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 ## Monotonic Stack
 |  |
@@ -114,6 +116,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/aminmaryam/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/aminmaryam/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/aminmaryam/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/aminmaryam/Leetcode/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
