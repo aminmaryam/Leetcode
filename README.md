@@ -13,6 +13,7 @@
 | [0496-next-greater-element-i](https://github.com/aminmaryam/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/aminmaryam/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/aminmaryam/Leetcode/tree/master/0739-daily-temperatures) |
+| [2104-sum-of-subarray-ranges](https://github.com/aminmaryam/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2596-check-knight-tour-configuration](https://github.com/aminmaryam/Leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Hash Table
 |  |
@@ -109,6 +110,7 @@
 | [0503-next-greater-element-ii](https://github.com/aminmaryam/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/aminmaryam/Leetcode/tree/master/0739-daily-temperatures) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/aminmaryam/Leetcode/tree/master/1003-check-if-word-is-valid-after-substitutions) |
+| [2104-sum-of-subarray-ranges](https://github.com/aminmaryam/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -117,6 +119,7 @@
 | [0496-next-greater-element-i](https://github.com/aminmaryam/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/aminmaryam/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/aminmaryam/Leetcode/tree/master/0739-daily-temperatures) |
+| [2104-sum-of-subarray-ranges](https://github.com/aminmaryam/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
 |  |
 | ------- |
