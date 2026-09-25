@@ -34,6 +34,7 @@
 | [0020-valid-parentheses](https://github.com/aminmaryam/Leetcode/tree/master/0020-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/aminmaryam/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0387-first-unique-character-in-a-string](https://github.com/aminmaryam/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/aminmaryam/Leetcode/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -102,6 +103,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/aminmaryam/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/aminmaryam/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/aminmaryam/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/aminmaryam/Leetcode/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 ## Monotonic Stack
 |  |
 | ------- |
