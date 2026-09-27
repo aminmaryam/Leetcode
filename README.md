@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/aminmaryam/Leetcode/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/aminmaryam/Leetcode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/aminmaryam/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/aminmaryam/Leetcode/tree/master/0046-permutations) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aminmaryam/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aminmaryam/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0134-gas-station](https://github.com/aminmaryam/Leetcode/tree/master/0134-gas-station) |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/aminmaryam/Leetcode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/aminmaryam/Leetcode/tree/master/0046-permutations) |
 | [0131-palindrome-partitioning](https://github.com/aminmaryam/Leetcode/tree/master/0131-palindrome-partitioning) |
 ## String
 |  |
