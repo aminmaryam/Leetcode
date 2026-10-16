@@ -50,6 +50,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aminmaryam/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/aminmaryam/Leetcode/tree/master/0100-same-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/aminmaryam/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aminmaryam/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/aminmaryam/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
@@ -57,6 +58,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/aminmaryam/Leetcode/tree/master/0100-same-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/aminmaryam/Leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Matrix
 |  |
@@ -145,6 +147,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aminmaryam/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/aminmaryam/Leetcode/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aminmaryam/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/aminmaryam/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aminmaryam/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -152,6 +155,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aminmaryam/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/aminmaryam/Leetcode/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aminmaryam/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/aminmaryam/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aminmaryam/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
